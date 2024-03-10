@@ -1,0 +1,2 @@
+# abap_core_coursev02
+abap_core_coursev02
